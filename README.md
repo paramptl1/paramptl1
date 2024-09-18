@@ -11,19 +11,79 @@ I'm an aspiring web developer currently studying in high school. I have a passio
 ### Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="css3"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        alt="javascript"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+        alt="redux"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+        alt="tailwind"
+        width="40"
+        height="40"
+      />
+    </a>
 </p>
 
 ### Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+        alt="firebase"
+        width="40"
+        height="40"
+      />
+    </a>
 </p>
 
 ---
