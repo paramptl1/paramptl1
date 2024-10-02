@@ -76,10 +76,26 @@ I'm an aspiring web developer currently studying in high school. I have a passio
 ### Backend
 
 <p align="center">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         alt="firebase"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        alt="express"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb"
         width="40"
         height="40"
       />
@@ -89,15 +105,16 @@ I'm an aspiring web developer currently studying in high school. I have a passio
 ---
 
 ## 🌱 Current Projects
-- Building **Notes-taking-app** apps with **Redux Toolkit**, **TypeScript** and **React**.
-- Exploring **Firebase** for authentication, database, and cloud storage.
+- Learning backend web development with **MongoDB** and **Express**.
+- Building **Youtube-clone** with my own backend and frontend.
 
 ---
 
 ## 📫 Let's Connect
 - Email: param245021@gmail.com
-- [StackOverFlow]([https://www.linkedin.com/in/yourprofile](https://stackoverflow.com/users/24532252/param))
-  
+- [StackOverFlow](https://stackoverflow.com/users/24532252/param)
+- [LinkedIn](https://www.linkedin.com/in/param-patel-a61872330)
+
 ---
 
 ## 🚀 Some of My Work
