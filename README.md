@@ -105,8 +105,7 @@ I'm an aspiring web developer currently studying in high school. I have a passio
 ---
 
 ## 🌱 Current Projects
-- Learning backend web development with **MongoDB** and **Express**.
-- Building **Youtube-clone** with my own backend and frontend.
+- Building **Travel-story** MERN stack project with Typescript.
 
 ---
 
