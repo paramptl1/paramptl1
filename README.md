@@ -29,8 +29,7 @@ I'm an aspiring web developer currently studying in high school. I have a passio
     </a>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
+      target="_blank" rel="noreferrer"
     >
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -73,7 +72,7 @@ I'm an aspiring web developer currently studying in high school. I have a passio
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+        src="https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png?v=1957363170977474520"
         alt="nextjs"
         width="40"
         height="40"
@@ -94,9 +93,8 @@ I'm an aspiring web developer currently studying in high school. I have a passio
     </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        src="https://user-images.githubusercontent.com/46530103/149555718-00be7ed3-3c62-42e4-a9af-cf11845a4e4d.jpg"
         alt="express"
-        width="40"
         height="40"
       />
     </a>
