@@ -71,6 +71,14 @@ I'm an aspiring web developer currently studying in high school. I have a passio
         height="40"
       />
     </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+        alt="nextjs"
+        width="40"
+        height="40"
+      />
+    </a>
 </p>
 
 ### Backend
@@ -105,11 +113,11 @@ I'm an aspiring web developer currently studying in high school. I have a passio
 ---
 
 ## 🌱 Current Projects
-- Building **Travel-story** MERN stack project with Typescript.
+- Learning and building **Next.js** website.
 
 ---
 
-## 📫 Let's Connect
+## 📧 Let's Connect
 - Email: param245021@gmail.com
 - [StackOverFlow](https://stackoverflow.com/users/24532252/param)
 - [LinkedIn](https://www.linkedin.com/in/param-patel-a61872330)
