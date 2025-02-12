@@ -72,9 +72,8 @@ I'm an aspiring web developer currently studying in high school. I have a passio
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png?v=1957363170977474520"
+        src="https://i.pinimg.com/1200x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"
         alt="nextjs"
-        width="40"
         height="40"
       />
     </a>
@@ -106,12 +105,20 @@ I'm an aspiring web developer currently studying in high school. I have a passio
         height="40"
       />
     </a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
+      <img
+        src="https://thumbs.dreamstime.com/b/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg"
+        alt="Java"
+        width="40"
+        height="40"
+      />
+    </a>
 </p>
 
 ---
 
 ## 🌱 Current Projects
-- Learning and building **Next.js** website.
+- Learning DSA with Java.
 
 ---
 
